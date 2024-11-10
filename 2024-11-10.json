@@ -1,0 +1,26 @@
+{
+  "name": "Terry Blair",
+  "age": 50,
+  "address": {
+    "street": "Nuncin Manor",
+    "city": "Fujjubi",
+    "state": "AR",
+    "zip": "31112"
+  },
+  "contact": {
+    "phone": "(481) 615-3272",
+    "servicePhone": "800568224"
+  },
+  "birthday": "2000-07-08T03:15:12.412Z",
+  "ip": "105.131.62.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Wapuwo muitulej ukuoruiro voit mec zirejesi onu ewagokico ozi cizniga jol tav jolvilgu to mukasopa ci papom cihpoev. Zu lobjefaf hul ew juit dop laf duanut voljizuji re owpuskow ferauhu keoswo odazibva remit ewtu ke wokkarcu. Cif depih lafolli lel ho sa tijobo vurgep hivoma rapuci vam zikeve giful usiwep cof tibnu.",
+    "bio": "Harle kowmacwok tigidom giroodi jek ejonuv gimuh lecih ikrawi curudet fefoace subrahkub rov izkehdi gofboc. Lovhowfig vo etiva owwoz jum wekuwnug rok siwur tenlun kulvemic nade wotfakgo tuneki jed. Pujmu zi oja hes ufesi afove edonaw pumjam ati ochi uzavan huwcice fu jowak zas ezeku."
+  },
+  "apiKey": "3410d10ed61b6f04100a8a3ab7df8c140142a7bf696222b781357f27ce168e60",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
