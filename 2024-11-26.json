@@ -1,0 +1,26 @@
+{
+  "name": "Elva Pearson",
+  "age": 65,
+  "address": {
+    "street": "Umuub Mill",
+    "city": "Ersepew",
+    "state": "SC",
+    "zip": "23956"
+  },
+  "contact": {
+    "phone": "(658) 807-2896",
+    "servicePhone": "800328184"
+  },
+  "birthday": "2002-03-26T01:01:38.435Z",
+  "ip": "181.222.224.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Musgalbis zozan hagadbu fifhenor be bu diso bewgij ozuusomag eli fohav tor ru jahga bacvov. Ibibej vi una erogib ataka govfa gecus vib isaunvof to ihaez bocme diwutwin. Del uposiz mupriji zibdecfad zumwapat zabiplo jowu lasce wu bajiep ucaubavuk isciap owtat lucwupko aja nuf.",
+    "bio": "Ra boz kiwgadgev zanvis hucafeiw iphiac tusoupa nirugep voboseh ucognok liroclu fiful sebewzo. Vihveom zu im ras es jehnena ko pakpab it wigtadid ivrehi lum ba urmor. Dul gah teubu botkum rimtij orwiiv ziti owesob mertul vogwek ego giggesa wol degoge ampic il midu tedje. Gaj azootuteh amre menzewis biij opanenec upilevof ralje oze kugumat ibuubvev numepel. Los vi ufmo pisaeh rihha awihepmi pino ta rogkesip bezzok zidcoc hifkarej awoge curvuvi nattephe lacad. Cet go cuzutduv hiwumnaz wa genuvew uke ricokij potodo tagawok hitodo bop du ifeura cop gec hipkeimi."
+  },
+  "apiKey": "5fd1c8636aed7a45feeaf62a68715d6a019f12788b10270f427dcd44fbc4141f",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
