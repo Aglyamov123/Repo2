@@ -1,0 +1,26 @@
+{
+  "name": "Brian Parker",
+  "age": 37,
+  "address": {
+    "street": "Nifsah Terrace",
+    "city": "Kaunito",
+    "state": "IL",
+    "zip": "35298"
+  },
+  "contact": {
+    "phone": "(936) 927-3007",
+    "servicePhone": "800521181"
+  },
+  "birthday": "1985-07-10T01:49:45.804Z",
+  "ip": "35.234.245.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Itze vos fo jama arokodek guimgew gunhaw hezu pepgo orozemge jov hi mopunugi fi balehsa zoj mephu da. Dino favgekwuz aviojuri offubve izbe feru olmi mapave te itfetri kasici zaus bazuken hav wojpe dokli. Kitar emeuwe buk ceptu ke rupsucam luir ura woajegim mefivil winib reko geru gaz hav hur.",
+    "bio": "Sijgo zed adaarod ekaku kujifhig of pu sa luvevu ve sikti re waugog vessup li juj. Imhupu firokaw vo mot soz ol ditgumuc fopned dubvuaw jabuvha nujzofet tutsi ulovu are hakocuk coh fugum. Wipko guh dehuwaz evvidwe weere og vanij ciip ze rig zabweke vigos aznubu voba."
+  },
+  "apiKey": "43ab5d634374929532e7f418f4572855dde155f3d0b13118cc58120406d4c2bf",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
